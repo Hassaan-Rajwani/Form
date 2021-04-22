@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(73, 73, 197);
+}
+h1 {
+    padding: 15px;
+    word-spacing: 10px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(42, 42, 143);
+    color: white;
+    width: 700px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.main {
+    text-align: center;
+    height: 340px;
+    width: 730px;
+    margin-top: -22px;
+    background-color: rgb(50, 50, 110);
+}
+.namclass {
+    color: white;
+    font-size: 22px;
+    margin-right: 180px;
+    font-weight: bold;
+}
+.name {
+    color: white;
+    font-family: sans-serif;
+}
+input {
+    width: 190px;
+    padding: 5px;
+    border-radius: 8px;
+    border: solid 2.5px black;
+}
+#last {
+    margin-left: 20px;
+}
+.emclass {
+    font-family: sans-serif;
+    color: white;
+    font-size: 22px;
+    margin-right: 177px;
+    font-weight: bold;
+}
+#mail {
+    width: 420px;
+}
+.passclass {
+    font-family: sans-serif;
+    color: white;
+    font-size: 22px;
+    margin-right: 179px;
+    font-weight: bold;
+}
+#tpas {
+    margin-left: -62px;
+}
+.birclass {
+    font-family: sans-serif;
+    color: white;
+    font-size: 22px;
+    margin-right: 132px;
+    font-weight: bold;
+}
+button {
+    background-color: rgb(64, 129, 64);
+    font-weight: 1000;
+    width: 120px;
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+button:hover {
+    opacity: 1;
+}
